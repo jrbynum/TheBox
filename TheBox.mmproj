@@ -1,0 +1,15 @@
+<mm_project serial_port="COM9" board="Arduino Mega 2560 or Mega ADK" programmer="" includePaths="" libPaths="" libs="" default="no" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="main.cpp" open="yes" />
+    <file name="4dsystem.cpp" open="yes" />
+    <file name="TheBox.h" open="yes" />
+    <file name="isr.cpp" open="yes" />
+    <file name="startup.cpp" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="D:\Arduino\arduino-1.0.3\libraries\OneWire\OneWire.cpp" />
+    <external name="D:\Arduino\arduino-1.0.3\libraries\dallas-temperature-control\DallasTemperature.cpp" />
+  </externals>
+</mm_project>
